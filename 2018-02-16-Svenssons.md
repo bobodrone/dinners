@@ -1,5 +1,20 @@
 # Middag med Svenssons i Usland 2018-02-16
 
+## Ordnung!
+
+1. Gör kyckingmarinad, Lammfärsgegga och tsatziki innan aktiviteter och ställ in i kyl
+2. Aktiviteter
+3. Kycklingen ska stekas och koka i ca 2tim.
+4. Under tiden som kycklingen puttrar kan följande tillredas:
+  - Tabouleh
+  - Hummus
+  - Lammfärsbiffar och steka dessa
+  - Kebabsåsen
+  - FiggeSalsan
+  - Hakka resten!
+
+5. Käka!
+
 ## Recept
 
 - [Chicken carnitas](https://github.com/bobodrone/eatable/blob/master/chicken_carnitas.md)
